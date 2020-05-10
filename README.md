@@ -22,9 +22,9 @@ Interactive menu via Serial Monitor to play with stepper motor "28BYJ-48"
  * 
  * The interactive menu looks as follows: 
  * 
- * Select direction: 'F' (fwd)  /  'R' (Rear)
- * Select torque   : 'A' (low)  /  'B' (mid) / 'C' (high)
- * Select speed    : '0' (min) ... '9' (max) / 'T' (Turbo) / 'P' (Pot control)";
+ * Select direction: 'F' (fwd)    /  'R' (Rear)
+ * Select torque   : 'A' (low)    /  'B' (mid) / 'C' (high)
+ * Select speed    : Rpm (value)  /  'P' (Potentiometer)
  * --------------------------------------------------------
  * Direction = F / Torque = B / Rpm = 0.00 / Dt = 7000 / Deg = 0.00 / Status = Stop
  * 'S' to start / 'X' to stop / 'M' to refresh menu / 'T' to go to a Target angle
