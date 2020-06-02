@@ -1,7 +1,7 @@
 # Stepper-menu
 Interactive menu via Serial Monitor to play with stepper motor "28BYJ-48"
 
- * Cimanes - 30/04/2020
+ /* Cimanes - 30/04/2020
  *  
  * This sketch can be used to move a stepper motor. 
  * It was developed and tested using the Stepper motor "28BYJ-48" and driver module "ULN2003"
@@ -22,9 +22,11 @@ Interactive menu via Serial Monitor to play with stepper motor "28BYJ-48"
  * 
  * The interactive menu looks as follows: 
  * 
- * Select direction: 'F' (fwd)    /  'R' (Rear)
+ * Select direction: 'F' (fwd)    /  'R' (rear)
  * Select torque   : 'A' (low)    /  'B' (mid) / 'C' (high)
- * Select speed    : Rpm (value)  /  'P' (Potentiometer)
+ * Select speed    : Rpm (value)  /  'P' (potentiometer)
  * --------------------------------------------------------
  * Direction = F / Torque = B / Rpm = 0.00 / Dt = 7000 / Deg = 0.00 / Status = Stop
  * 'S' to start / 'X' to stop / 'M' to refresh menu / 'T' to go to a Target angle
+ */
+ 
