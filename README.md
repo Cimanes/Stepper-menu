@@ -6,8 +6,8 @@ Interactive menu via Serial Monitor to play with stepper motor "28BYJ-48"
  * This sketch can be used to move a stepper motor. 
  * It was developed and tested using the Stepper motor "28BYJ-48" and driver module "ULN2003"
  * A power supply (5 VDC) is used to feed the motor.
- * The rest of speed settings (1 to 8) will be calculated proportionally
  * The constant "Rpm_Max" will set the Max speed for the potentiometer. 
+ * The rest of speed settings (1 to 8) will be calculated proportionally
  *   
  * There is an interactive menu in the Serial Monitor. 
  * The user can select three modes of operation "A, B, C" (incrasing torque and decreasing consumption)
