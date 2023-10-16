@@ -1,4 +1,4 @@
-/* Cimanes - 30/04/2020
+/** Cimanes - 30/04/2020
  *  
  * This sketch can be used to move a stepper motor. 
  * It was developed and tested using the Stepper motor "28BYJ-48" and driver module "ULN2003"
