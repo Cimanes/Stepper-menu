@@ -10,11 +10,11 @@ Interactive menu via Serial Monitor to play with stepper motor "28BYJ-48"
  * The rest of speed settings (1 to 8) will be calculated proportionally
  *   
  * There is an interactive menu in the Serial Monitor. 
- * The user can select three modes of operation "A, B, C" (incrasing torque and decreasing consumption)
+ * The user can select three modes of operation "A, B, C" (increasing torque and decreasing consumption)
  * The user can select movement forward or backwards 
  * The user can select the speed (Rpm)
  * The angle of the motor is monitored (Deg) 
- * Each time a command is sent to the Serial monitor, the curent conditions are displayed.
+ * Each time a command is sent to the Serial monitor, the current conditions are displayed.
  * 
  * Target mode:
  * The menu allows the user to select a target angle and the motor will move there.

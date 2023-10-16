@@ -7,7 +7,7 @@
  * The rest of speed settings (1 to 8) will be calculated proportionally
  *   
  * There is an interactive menu in the Serial Monitor. 
- * The user can select three modes of operation "A, B, C" (incrasing torque and decreasing consumption)
+ * The user can select three modes of operation "A, B, C" (increasing torque and decreasing consumption)
  * The user can select movement forward or backwards 
  * The user can select the speed (Rpm)
  * The angle of the motor is monitored (Deg) 
